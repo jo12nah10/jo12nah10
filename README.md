@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jo12nah10
+- 👀 I’m interested in App and Web development 
+- 🌱 I’m currently learning Computer science
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
+
