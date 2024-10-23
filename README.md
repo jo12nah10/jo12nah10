@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-electronics and computer science student from Klagenfurt, Austria<br><br>I am currently working on an android app <br> How to reach me: jonah.strohmaier@gmx.at 
+electronics and computer science student from Klagenfurt, Austria<br><br>I am currently working on a mobile app <br> How to reach me: jonah.strohmaier@gmx.at 
 
 
 # 💻 Tech Stack:
